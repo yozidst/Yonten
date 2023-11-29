@@ -7,6 +7,19 @@
   <kbd><img height="40" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="0" /></kbd>
 </p>
 
+</br>
+</br>
+</br>
+
+<div align="center">
+  
+### <a href="https://github.com/yozidst/yozidst/issues">Click here to leave a message :)</a>
+</div>
+
+</br>
+</br>
+
+
 #### ***Learning the following***:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)

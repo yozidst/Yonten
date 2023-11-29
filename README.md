@@ -1,10 +1,10 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" /> 
 <p align="left">
-  <img height="250" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
-  <img height="250" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
-  <img height="250" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
-
-  
+  <img height="220" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="150" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="120" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="80" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="50" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
 </p>
 
 #### ***Learning the following***:

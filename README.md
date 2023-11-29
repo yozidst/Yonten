@@ -27,11 +27,8 @@
 </p>
 
 
+![Snake animation](https://github.com/thaisramos13/thaisramos13/raw/main/github-contribution-grid-snake.svg)
 
-
-  ![Snake animation](https://github.com/thaisramos13/thaisramos13/raw/main/github-contribution-grid-snake.svg)
-
----
 </br>
 </br>
 
@@ -39,3 +36,7 @@
   
 ## <a href="https://github.com/yozidst/yozidst/issues">Click here to leave a message :)</a>
 </div>
+
+</br> </br>
+
+---

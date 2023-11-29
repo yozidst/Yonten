@@ -1,6 +1,11 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" /> 
-
-
+<p align="left">
+  <img height="160" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="160" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="160" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  <img height="160" alt="breaking dancing, flares for days" src="./assets/letsgo.gif" hspace="10" />
+  
+</p>
 
 #### ***Learning the following***:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/)

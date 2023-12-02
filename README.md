@@ -10,6 +10,8 @@
 ---
 
 ### ***Learning the following***:
+</br>
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)](https://www.javascript.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=blue)](https://en.wikipedia.org/wiki/Java_(programming_language)) 
